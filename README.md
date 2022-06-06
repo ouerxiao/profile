@@ -1,11 +1,6 @@
-<img='./src/static/favicon.ico'>
-# Static Personal Portfolio Website
+<img src='./src/static/favicon.ico'>
+<h1> Static Personal Portfolio Website </h1>
 
-# Dependencies and Installation
+<h2> Dependencies and Installation </h2>
 
-# Spotify playing
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/<31ojfzizn53aoqphz7ccktdraxwy>)
-
-
-# Preview
-
+<h2> Preview </h2>
