@@ -2,7 +2,9 @@
 <h1> Static Personal Portfolio Website </h1>
 
 <h2> Dependencies and Installation </h2>
-- Flask==1.1.2
-- gunicorn==20.0.4
+<ul> 
+ <li>Flask==1.1.2</li>
+ <li>gunicorn==20.0.4</li>
+<ul>
 
 <h2> Preview </h2>
